@@ -1,0 +1,46 @@
+[
+  
+  {
+    "name": "BroCoders Blogging ",
+    "desc": "It is a web app which is build in flask. In this app i use such technologies such as Html,Css,Js,Mysql. it is a blogging website and we made a admin panel for handel all blogs",
+    "image": "brocoders",
+    "category": "website",
+    "links": {
+      "view": "https://github.com/pradeepsaini384/BroCoders-main",
+      "code": "https://github.com/pradeepsaini384/BroCoders-main"
+    }
+  },
+  {
+    "name": "GroceryWala E-commerce ",
+    "desc": "It is a web app which is build in flask. In this app i use such technologies such as Html,Css,Js,Mysql. it is a Grocery Shopping website and we made a admin panel for handel all Data and products",
+    "image": "grocerywala",
+    "category": "website",
+    "links": {
+      "view": "https://github.com/pradeepsaini384/BroCoders-main",
+      "code": "https://github.com/pradeepsaini384/BroCoders-main"
+    }
+  },
+  {
+    "name": "Jai Shree Mens Wear E-commerce ",
+    "desc": "It is a web app which is build in Django. In this app i use such technologies such as Html,Css,Js,Mysql. it is a  Shopping website for clothes and we made a admin panel for handel all Data and products",
+    "image": "jaishree",
+    "category": "website",
+    "links": {
+      "view": "https://github.com/pradeepsaini384/JaishreeMensWear",
+      "code": "https://github.com/pradeepsaini384/JaishreeMensWear"
+    }
+  },
+  {
+    "name": "Attendence Management System Using Face Detection ",
+    "desc": "It is a web app which is build in flask. In this app i use such technologies such as OpenCv,Html,Css,Js,Mysql ",
+    "image": "attendence",
+    "category": "website",
+    "links": {
+      "view": "https://github.com/pradeepsaini384/attendenceSysytemByPradeep",
+      "code": "https://github.com/pradeepsaini384/attendenceSysytemByPradeep"
+    }
+  }
+  
+  
+ 
+]
