@@ -978,6 +978,9 @@ header .navbar ul li a:hover {
   .experience {
     min-height: 80vh;
   }
+  .home .image{
+    display: none;
+  }
   .experience .timeline {
     margin-top: 2rem;
   }
